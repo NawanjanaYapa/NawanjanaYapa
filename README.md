@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawanjanayapa" alt="nawanjanayapa" /></a> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript, Python, Html, Css, Spring Boot, React.js, Flutter, Firebase**
+- 🌱 I’m currently learning **Java, JavaScript, Python, Html, Css, Spring Boot, React.js**
 
 - 📫 How to reach me **dulminawanjana2002@gmail.com**
 
